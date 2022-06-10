@@ -1,0 +1,7 @@
+The techniques Uses 
+-> Access List
+-> Subnetting 
+-> OSPF(Open Shortest Path)
+-> Firewall
+
+  
