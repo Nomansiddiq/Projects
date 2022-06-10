@@ -1,0 +1,4 @@
+Key Points
+-> This Project is about different phases of software Development
+-> This is From Requirement to design and Architecture phase
+-> Having Qanlitative and Quantitative analysis of system or application
